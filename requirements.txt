@@ -1,4 +1,8 @@
-#### Development Related ####
+pyautogui
+pydantic
+pygetwindow
+
+# #### Development Related ####
 ipykernel
 ipywidgets
 pre-commit
